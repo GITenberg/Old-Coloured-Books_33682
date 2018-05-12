@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2191
     wikipedia: http://en.wikipedia.org/wiki/George_Paston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33682#Old-Coloured-Books
 gutenberg_issued: '2010-09-09'
 gutenberg_type: Text
 identifiers:
